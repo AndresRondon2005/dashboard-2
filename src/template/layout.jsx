@@ -7,7 +7,7 @@ function Layout() {
             <CssBaseline />
             <Grid container sx={{flexGrow: 1}}>
                 <Grid item flexBasis={70}>
-                    NAVEGATION
+                    MENU
                 </Grid>
                 <Grid item flex={1}>
                     <Grid xs={12}>HEADER</Grid>
